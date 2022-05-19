@@ -20,17 +20,17 @@ button {
  
 }
 
-button:hover {
+/* button:hover {
  
   width: 300px;
   
   
-} 
+}  */
 
-/* button {
+ button {
   transition: transform .3s ease-in-out;
-} */
-/* 
+} 
+ 
 button:hover {
   transform: scale(1.2)
-} */
+} 
